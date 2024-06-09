@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
 // Structure for storing reservation information
 struct Reservation {
     string name;
